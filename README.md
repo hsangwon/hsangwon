@@ -1,4 +1,4 @@
-![아이디's github stats](https://github-readme-stats.vercel.app/api?username=hsangwon&show_icons=true)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=hsangwon&fontAlign=74&fontAlignY=40&color=gradient)
 
 # 🌱 Skills
 
@@ -20,9 +20,8 @@
 
 
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=hsangwon&fontAlign=74&fontAlignY=40&color=gradient)
 
-
+![아이디's github stats](https://github-readme-stats.vercel.app/api?username=hsangwon&show_icons=true)
 
 
 
